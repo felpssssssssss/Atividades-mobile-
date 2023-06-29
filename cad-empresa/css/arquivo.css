@@ -1,0 +1,20 @@
+div {
+  text-align: center;
+  margin: 0;
+  padding: 12px 0;
+  color: #00539F;
+}
+html {
+    background-color: lightskyblue;
+}
+p {
+    background-color: #3aa0ff;
+    color: black;
+} 
+label {
+    text-align: center;
+}
+input {
+    border-radius: 13%;
+    align-items: left;
+}
